@@ -2,15 +2,13 @@ body {
     font-family: Arial, sans-serif;
 
     background: linear-gradient(#b679a4 0%, #4d2c4b 33.33%, #0e0d33 66.67%, #0e0108 100%);
-
-
     background-size: auto;
     background-repeat: no-repeat;
     /* Hace que la imagen cubra todo el área del elemento */
     background-position: right;
     min-height: 100vh;
     margin: 0;
-    padding: 0;
+    padding: 50px;
     color: white;
 }
 
