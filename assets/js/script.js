@@ -7,7 +7,7 @@ function clickBoton(){
     let nombreGasto = document.getElementById('nombreGasto').value;
     let valorGasto = document.getElementById('valorGasto').value;
     let descripcionGasto = document.getElementById('descripcionGasto').value;
-    if (valorGasto>150){ alert('Se ha registrado un gasto mayor de 150USD')}
+    if (valorGasto>15000){ alert('Se ha registrado un gasto mayor de 15000 MXN')}
     
     console.log(descripcionGasto);
 
